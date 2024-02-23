@@ -1,4 +1,4 @@
-# ✨ Git Practice Table for ITI Mansoura OS Track 
+# ✨ Git Practice Table for ITI Mansoura AI Track 
 Welcome to the Git Practice Table!\
 This table has been created to provide the ITI students with a hands-on environment for practicing Git commands and collaborating with their coworkers.\
 This README.md file will guide you through the setup, usage, and contribution process.
@@ -9,7 +9,7 @@ It includes various table elements that can be modified, added, or deleted\
 So, follow the below steps to contribute in this repository:
 - Clone the Git Repository:
     ```bash
-    git clone https://github.com/Ahmedsamymahrous/ITI-OS-Mans-Git-44.git
+    git clone https://github.com/Ahmedsamymahrous/ITI-AI-Mans-Git.git
     ```
 - Navigate to the Repository:
     ```bash
