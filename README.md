@@ -13,7 +13,7 @@ So, follow the below steps to contribute in this repository:
     ```
 - Navigate to the Repository:
     ```bash
-    cd ITI-OS-Mans-Git-44
+    cd ITI-AI-Mans-Git
     ```
 - Add your name alongside your email in the HTML table, by copying the below code:
     ```html
